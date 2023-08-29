@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94d00d58-5907-4c97-ba76-2e8b6ef990a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/config/mongoose.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../It'sTimetoDuel/.idea/It'sTimetoDuel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../It'sTimetoDuel/It'sTimetoDuel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ninja2/.idea/Ninja2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ninja2/Ninja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axios_pokemon_api/.idea/axios_pokemon_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../axios_pokemon_api/src/components/PokeAxios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../box_generator/.idea/box_generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../box_generator/src/components/Box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../box_generator/src/components/BoxForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/.idea/faker_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../faker_api/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_react_with_jsx/.idea/first_react_with_jsx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook_form/.idea/hook_form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook_form/src/components/UserForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/config/mongoose.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/models/user.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/routes/user.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jokes_api/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/.idea/just_for_learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/Groceries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/Hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/MessageDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/MessageForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/TestOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/TestTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just_for_learning/src/components/UserForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_forms/.idea/new_forms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_forms/src/components/UserForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/pokemon_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/components/Pokemen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/src/components/PMForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/config/mongoose.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/controllers/product.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/models/product.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/routes/product.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager_backend/SERVER/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prop_it_up/.idea/prop_it_up.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prop_it_up/src/components/PersonCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prop_it_up/src/components/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing_prictice/.idea/routing_prictice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing_prictice/src/components/First.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing_prictice/src/components/Second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../routing_prictice/src/components/Third.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tabs/.idea/tabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tabs/src/components/Tab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tabs/src/components/Tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to_do_list/.idea/to_do_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to_do_list/src/components/ToDoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to_do_list/src/hooks/useList.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2USy4d94hRt4n7PiFCxZlArxiJz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d00d58-5907-4c97-ba76-2e8b6ef990a2" name="Changes" comment="" />
+      <created>1692947085333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692947085333</updated>
+      <workItem from="1692947094681" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/utils.js" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/utils.js.map" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/utils.d.ts" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/operations.js" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/operations.js.map" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/operations.d.ts" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/index.js" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/index.js.map" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/core.js" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/core.js.map" />
+        <option value="$PROJECT_DIR$/server/node_modules/sift/src/core.d.ts" />
+        <option value="$PROJECT_DIR$/client/node_modules/tailwindcss/stubs/tailwind.config.js" />
+        <option value="$PROJECT_DIR$/client/node_modules/tailwindcss/stubs/tailwind.config.cjs" />
+      </list>
+    </option>
+  </component>
+</project>
